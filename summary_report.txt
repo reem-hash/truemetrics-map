@@ -1,0 +1,84 @@
+
+================================================================================
+                    TRUEMETRICS LOCATION DATA SUMMARY
+================================================================================
+Generated: 2026-01-14 10:33:50
+
+OVERVIEW
+--------
+Total Valid Locations: 82260
+  - Entrances (Type 1): 18520
+  - Parking (Type 2):   63740
+
+GEOGRAPHIC BOUNDS
+-----------------
+Latitude:  24.821168 to 26.143172
+Longitude: 50.775549 to 51.621330
+Center:    25.309368, 51.470955
+
+GPS ACCURACY (meters)
+---------------------
+Min:     0.5m
+Max:     50.0m
+Average: 5.4m
+Median:  3.8m
+
+SOURCE FILES
+------------
+Unique files: 43
+Files processed:
+  - newMapPoints_part_1.csv: 1870 records
+  - newMapPoints_part_10.csv: 1987 records
+  - newMapPoints_part_11.csv: 1982 records
+  - newMapPoints_part_12.csv: 1984 records
+  - newMapPoints_part_13.csv: 1978 records
+  - newMapPoints_part_14.csv: 1976 records
+  - newMapPoints_part_15.csv: 1978 records
+  - newMapPoints_part_16.csv: 1976 records
+  - newMapPoints_part_17.csv: 1980 records
+  - newMapPoints_part_18.csv: 1987 records
+  - newMapPoints_part_19.csv: 1987 records
+  - newMapPoints_part_2.csv: 1840 records
+  - newMapPoints_part_20.csv: 1970 records
+  - newMapPoints_part_21.csv: 1981 records
+  - newMapPoints_part_22.csv: 1959 records
+  - newMapPoints_part_23.csv: 1953 records
+  - newMapPoints_part_24.csv: 1985 records
+  - newMapPoints_part_25.csv: 1978 records
+  - newMapPoints_part_26.csv: 1975 records
+  - newMapPoints_part_27.csv: 1979 records
+  - newMapPoints_part_28.csv: 1983 records
+  - newMapPoints_part_29.csv: 1979 records
+  - newMapPoints_part_3.csv: 1858 records
+  - newMapPoints_part_30.csv: 1984 records
+  - newMapPoints_part_31.csv: 1984 records
+  - newMapPoints_part_32.csv: 1985 records
+  - newMapPoints_part_33.csv: 1967 records
+  - newMapPoints_part_34.csv: 1981 records
+  - newMapPoints_part_35.csv: 1965 records
+  - newMapPoints_part_36.csv: 1969 records
+  - newMapPoints_part_37.csv: 1949 records
+  - newMapPoints_part_38.csv: 1976 records
+  - newMapPoints_part_39.csv: 1969 records
+  - newMapPoints_part_4.csv: 1859 records
+  - newMapPoints_part_40.csv: 1973 records
+  - newMapPoints_part_41.csv: 1985 records
+  - newMapPoints_part_42.csv: 1984 records
+  - newMapPoints_part_43.csv: 276 records
+  - newMapPoints_part_5.csv: 1843 records
+  - newMapPoints_part_6.csv: 1873 records
+  - newMapPoints_part_7.csv: 1838 records
+  - newMapPoints_part_8.csv: 1845 records
+  - newMapPoints_part_9.csv: 1930 records
+
+================================================================================
+OUTPUT FILES GENERATED
+================================================================================
+1. google_my_maps_import.csv  - Import directly to Google My Maps
+2. locations.geojson          - For advanced GIS tools
+3. locations.kml              - For Google Earth
+4. interactive_map.html       - Open in browser (no API key needed!)
+5. summary_report.txt         - This file
+6. cleaned_data.xlsx          - Full cleaned dataset
+
+================================================================================
